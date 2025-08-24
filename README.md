@@ -13,8 +13,3 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 ### 📊 GitHub Stats
 ![Dzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzikramdhn&show_icons=true&theme=radical)
 
-### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzikramdhn&layout=compact&theme=radical)
-
-### ⚡ Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=dzikramdhn&theme=radical&hide_border=false)
