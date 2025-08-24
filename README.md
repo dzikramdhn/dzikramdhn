@@ -10,3 +10,5 @@ Saya memiliki minat yang besar dalam bidang teknologi dan terus berusaha memperd
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/muhammad-dzikra-ramadhan-4a35521a1/)ku ya.
 
+### 📊 GitHub Stats
+![Dzikra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dzikramdhn&show_icons=true&theme=radical)
